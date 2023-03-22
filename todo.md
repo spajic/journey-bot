@@ -1,4 +1,4 @@
-- install ruby 3.2.1
+- install ruby 3.2.1 (USE DOCKER)
 - install latest rails
 - initialize rails project
 - add gem for telegram
