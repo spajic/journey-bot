@@ -1,0 +1,16 @@
+- install ruby 3.2.1
+- install latest rails
+- initialize rails project
+- add gem for telegram
+- register my bot and get token
+- setup token in project
+- manage to send a message to myself from the bot
+- add User model
+- add Journey model
+- add Step model
+- add UserStep model (shown_at, finished_at)
+- add admin interface to manage data
+- setup sidekiq 7.0.3+
+- ...
+- deploy with MRSK
+
